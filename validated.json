@@ -2,6 +2,9 @@
     "AHelpBomber": [
         "9940328d1ef70bb895350a51b1c05253253da5c65bb7451dec47851552d015cf"
     ],
+    "HudOverlaysPatch": [
+        "389a17aeb18bf3ec2797ec9717be410bbe72e93f3b547ec4ea1a447fce0f2a1b"
+    ],
     "LightDisabler": [
         "091466ff7fba9bca49448c21f20f15130ddc2f6363fc95050d4e9aeb7e450cc1"
     ],
