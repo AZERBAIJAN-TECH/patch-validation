@@ -2,8 +2,17 @@
     "AHelpBomber": [
         "9940328d1ef70bb895350a51b1c05253253da5c65bb7451dec47851552d015cf"
     ],
+    "AdminExploit": [
+        "8748e9ee12801aa92afdf58a8ced85930b9795cc317540dc8878b477d2a777d6"
+    ],
     "AdminPatch": [
         "5956b7adacb5a80f8466b21500a12c6b372cb66ff751c2a09de513c226a77eb2"
+    ],
+    "Based": [
+        "70b16b989143769df97d7ca3a089d102fc7d151459e30bcdb79e2541967c58a4"
+    ],
+    "CMExploit": [
+        "0114964124566e0eda86d45f8460bd03a9f504a24861a8edc7f9069247d2bf7f"
     ],
     "Chemical_Scan_Patch": [
         "c5de0a5104108ebe9429c9f0e6ee618b52583a301c3e3dbbf90241954d48ceaa"
@@ -12,16 +21,21 @@
         "fa4c8c416b21499a9b86ad8287b2bd299ebabc915208584b97ae7cc82a95f69e"
     ],
     "DODPatch": [
-        "359ebe88fe111c3c081f7baebeea98aa0228534369be2455f4715325c22a95b5"
+        "359ebe88fe111c3c081f7baebeea98aa0228534369be2455f4715325c22a95b5",
+        "465ff6e59622c6c43cdaa7108c15910bc44b4a3510777bf00d16c8fd83aa85bd"
     ],
     "FlashPatch": [
-        "a3b1d3f8de6d2e0a61548a32ea6d79f48e64cb7a238aff14ab8d6a780bca4e94"
+        "a3b1d3f8de6d2e0a61548a32ea6d79f48e64cb7a238aff14ab8d6a780bca4e94",
+        "458da83985ddc433dbb8930ee35de962eb8ef7640110c124c4a20a49867c0f86"
     ],
     "FoamControll": [
         "4a4fbe365e19303af1d2cd6a23a80a15c182bc86b024ef0a0f21ddf72e78f14c"
     ],
     "ForceListing": [
         "aebe1b6210d28e62a483890d5579ea5ca1387433c58ea8cb327db1aad8bd5247"
+    ],
+    "FreeOverlay": [
+        "15cb78f7150907000f7fc0c19a3722d1e8ffb27fa1ad3327ec9f9aeec14c6381"
     ],
     "FrontierExploit": [
         "0be2e8890cbe889ae08b2c9ab3d288ca43f6dd2b8477057a594331bdcef5e56e"
@@ -39,18 +53,35 @@
         "ef47584cdfaa5f9f3d4bb67ade2a7bd9fa60fd687c683f237f9da8f6ded0d53a"
     ],
     "OverlaysPatch": [
-        "3f83dd2f164d30c9d75ac929c9223dddb8d54d6f88a519885514bcf268ba098a"
+        "3f83dd2f164d30c9d75ac929c9223dddb8d54d6f88a519885514bcf268ba098a",
+        "a8c1e6c105eddd82a1d6a9e5b3d438a4227ed45af4dabb937560bb4ee4aaaa9c"
     ],
     "RRTBypass": [
         "fb48568c7fb481b478c1b4b619cc639283812a4ff247713bc000e87e03f58561"
     ],
+    "Rethemer": [
+        "7e41d3fae2529564dd3d48c4df873e9ea4b2537fcebc93b3cc3752f15ecb38b7"
+    ],
     "Robusto": [
         "5aaf4029dd4ff60dc12767c39de4a1467c2abfeb6e7479b1759f46f551d8014c"
+    ],
+    "RotatePath": [
+        "4395da068ff2fb8008fc2e6021f4317b2f256702f798660a2507d314cf1a7743"
     ],
     "Smart_Spam_Patch": [
         "ea64657933b53bba46703696c25ea12891747e5f1bf2624f0b6e948afe4b2bc6"
     ],
+    "SukaDaKakogoHuya": [
+        "00612f05f927465c4044ad21b74ae867326c05f45587171a509b94badd1c1866"
+    ],
+    "SuperGovnoWare": [
+        "435329c41aa1cc63a9a674d6fb8aa9cb9ae94c56408669bfa92afb56f5d6f5f9"
+    ],
     "UpNoOverlay": [
-        "50b1e84d92184081115e61abcbeb958aa49034a2a9b977da98a968f1d97b106d"
+        "50b1e84d92184081115e61abcbeb958aa49034a2a9b977da98a968f1d97b106d",
+        "37fdc0babc8a4bfbcb5e7a8c18bc4736332258e8d379a6e6c8baef4298c97c1a"
+    ],
+    "Zazi4kaMod_1": [
+        "91bcd5c2fcdfc031122ab066f05d8ee2d5606ee5dd20f244075cf806a3a72d71"
     ]
 }
